@@ -75,12 +75,3 @@ breakdowns above are the more useful read for that.
 These are correlations, not proven causes — a real retention campaign would need
 A/B testing to confirm what actually moves the needle.
 
-## What I'd improve with more time
-
-- Compare against other models (Logistic Regression, XGBoost)
-- Handle the class imbalance more deliberately instead of relying on defaults
-- Add SHAP values to explain individual predictions, not just overall feature importance
-
-## Built with
-
-Python, pandas, scikit-learn, seaborn/matplotlib, Google Colab
